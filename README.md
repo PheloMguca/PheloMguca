@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Phelo Mguca 👋</h1>
 
 <p align="center">
-  🎨 Frontend Developer in the making &nbsp;|&nbsp; 💻 Code. Design. Repeat.
+  💻 Application Development Student
 </p>
 
 ---
@@ -22,7 +22,9 @@
 - 🐘 **PHP** — getting comfortable with how the backend thinks
 - 🚀 **Vercel** — learning how to deploy and host web applications
 - 🧩 **Tech Stacks** — understanding how all the pieces of a project fit together
-
+- ☕ **Java** — exploring object oriented programming concepts
+- 🌐 **JavaScript** — deepening my understanding of web interactivity
+- 🐍 **Python** — discovering the power of versatile programming
 ---
 
 ### 🎯 My Goals
