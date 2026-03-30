@@ -65,14 +65,7 @@ A fully responsive personal portfolio website designed to showcase projects and 
 - 🐍 **Python** — discovering the power of versatile programming
 ---
 
-### 🎯 My Goals
 
-- 🏗️ Build and deploy my first full stack web application
-- 🎨 Develop a strong eye for clean, user friendly UI design
-- 📈 Grow into a confident and skilled frontend developer
-- 🌍 Contribute to real world projects that make an impact
-
----
 
 <p align="center">
   ⚡ Still learning. Still building. Watch this space. ⚡
